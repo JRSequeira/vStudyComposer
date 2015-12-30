@@ -2,7 +2,7 @@
  Aveiro University
  MIECT - Services Engineering
 
- @authors: Vasco Santos (64191)
+ @authors: José Sequeira (64645)
           João Rodrigues ()
 
  Service Composition for vStudy Application

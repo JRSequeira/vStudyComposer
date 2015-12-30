@@ -2,7 +2,7 @@
 Aveiro University
 MIECT - Services Engineering
     
-    @author: Vasco Santos (64191)
+    @author: José Sequeira (64645)
 
 Service Composition for vStudy Application
 */
@@ -12,7 +12,7 @@ Server built using NodeJS
 */
 
 /**
-Lode Models to use
+Load Models to use
     . Express
     . Path
     . Favicon
